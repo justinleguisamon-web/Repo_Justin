@@ -1,0 +1,36 @@
+body{
+    font-family:Arial,sans-serif;
+    line-height:1.6;
+    margin:0;
+    padding:0
+}
+
+header,footer{
+    background-color:#005fa3;
+    color:white;
+    text-align:center;
+    padding:1rem
+}
+
+nav a{
+    color:white;
+    margin:0 10px
+}
+
+main{
+    padding:1rem
+}
+
+section,article{
+    margin-bottom:1.5rem
+}
+
+aside{
+    background-color:#f0f0f0;
+    padding:1rem;
+    margin:1rem
+}
+
+figure{
+    text-align:center
+}
